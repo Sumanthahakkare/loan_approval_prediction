@@ -22,7 +22,7 @@ Gender, Married, Education, Self_Employed, Property_Area
 
 Loan_Status (Target)
 
-#🔧 Data Preprocessing Steps
+# 🔧 Data Preprocessing Steps
 Handled missing values (mean/median/mode based imputation).
 
 Feature transformation using logarithmic scaling.
@@ -33,7 +33,7 @@ Removed redundant features (Loan_ID, original income columns).
 
 Label encoding of categorical features.
 
-#📈 Exploratory Data Analysis
+# 📈 Exploratory Data Analysis
 Used seaborn and matplotlib to visualize:
 
 Gender/Married/Education distribution.
@@ -42,7 +42,7 @@ Boxplots for outliers.
 
 Correlation heatmaps of numerical features.
 
-#🤖 Machine Learning Models
+# 🤖 Machine Learning Models
 Evaluated and compared the performance of:
 
 Model	Description
@@ -53,7 +53,7 @@ K-Nearest Neighbors	Distance-based classifier
 
 Metrics used: Accuracy, Confusion Matrix, Cross-validation score.
 
-#⚖️ Handling Imbalanced Data
+# ⚖️ Handling Imbalanced Data
 Used RandomOverSampler from imblearn to balance class distribution.
 
 Retrained all models on the balanced dataset for improved recall and F1-score.
