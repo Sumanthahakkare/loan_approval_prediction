@@ -1,10 +1,11 @@
-# Loan Approval Prediction
+# 🏦 Loan Approval Prediction
+
 This project builds a machine learning pipeline to predict whether a loan application will be approved based on applicant details such as income, credit history, employment, and more. It includes data cleaning, visualization, feature engineering, multiple classification models, and techniques to handle class imbalance.
 
-#📌 Problem Statement
+# 📌Problem Statement
 Loan default or delay impacts financial institutions. This project helps predict loan approval status to improve decision-making by automating risk assessment using historical data.
 
-#📊 Dataset Overview
+# Dataset Overview
 The dataset includes features like:
 
 ApplicantIncome
