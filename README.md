@@ -59,9 +59,9 @@ Used RandomOverSampler from imblearn to balance class distribution.
 # Retrained all models on the balanced dataset for improved recall and F1-score.
 | 🧠 Model               | 🎯 Accuracy |
 | ---------------------- | ----------- |
-| 🧮 Logistic Regression | \~82%       |
-| 🌳 Decision Tree       | \~76%       |
-| 🌲 Random Forest       | \~84%       |
-| 👣 KNN (k=6)           | \~78%       |
+| Logistic Regression   | \~82%       |
+|  Decision Tree        | \~76%       |
+| Random Forest         | \~84%       |
+|  KNN (k=6)            | \~78%       |
 
 
